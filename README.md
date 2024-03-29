@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Lakshmi Sravani Pamarthi
 - 🔭 I’m interested in Machine Learning, Deep Learning, Web Development
 - 🌱 I’m currently pursuing my B.Tech at Gayatri Vidya Parishad College of Engineering for Women
 - 📫 Do reach me on LinkedIn
